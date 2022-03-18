@@ -1,0 +1,27 @@
+body
+{
+    background-color:#2e4772; 
+}
+.nav-title{
+    width: 40%;
+} 
+#nav-home{
+    color: #2993df;
+}
+#textg
+{
+    color:#8d8f91;
+}
+footer
+{
+    background-color: #eef0f8e8;
+}
+.foot img 
+{
+    width: 100px;
+    width: 100px;
+    -webkit-filter: grayscale(1); 
+    filter: gray; 
+    filter: grayscale(1); 
+
+}
